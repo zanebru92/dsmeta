@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\zanel\OneDrive\Documentos\CURSOS PROGRAMAÇÃO\REACT\PROJETOS REACT ONLINE\dsmeta\.metadata\.plugins\org.eclipse.jdt.core
-2680077694.index
-1865797976.index
